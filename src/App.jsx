@@ -30,8 +30,8 @@ import AttendanceHistory from "./pages/Attendance/AttendanceHistory";
 import ViewAttendance from "./pages/Attendance/ViewAttendance";
 
 import AttendanceDashboard from "./pages/AttendanceDashboard/AttendanceDashboard";
-import FollowUps from "./pages/Followups/FollowUps";
-import FollowUpDetails from "./pages/Followups/FollowUpDetails";
+import FollowUps from "./pages/FollowUps/FollowUps";
+import FollowUpDetails from "./pages/FollowUps/FollowUpDetails";
 
 import Reports from "./pages/Reports/Reports";
 import AttendanceReport from "./pages/Reports/AttendanceReport";
